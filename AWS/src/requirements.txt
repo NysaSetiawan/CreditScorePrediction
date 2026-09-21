@@ -1,0 +1,6 @@
+lightgbm
+pandas
+numpy
+scikit-learn==1.2.1
+imbalanced-learn
+protobuf==3.20.3
